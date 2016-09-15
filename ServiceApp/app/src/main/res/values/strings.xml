@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceApp</string>
+    <string name="stop_service">停止服务</string>
+    <string name="start_service">启动服务</string>
+    <string name="bind_servie">绑定服务</string>
+    <string name="use_service">使用服务</string>
+    <string name="unbind_service">解绑服务</string>
+</resources>
